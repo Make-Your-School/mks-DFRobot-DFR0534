@@ -3,7 +3,7 @@ title: "MP3-Modul"
 date: "2018-10-01T15:20:08.000Z"
 tags: 
   - "output"
-coverImage: "68_mp3-modul_rz.jpg"
+coverImage: "68_mp3-modul_rz.png"
 material_number: "68"
 material_type: "output"
 material_short_descr: "DFR0534"
