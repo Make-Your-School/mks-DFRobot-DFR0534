@@ -31,8 +31,6 @@ Das Modul wird über die serielle Schnittstelle UART direkt oder mithilfe des Gr
 Alle weiteren Hintergrundinformationen sowie ein Beispielaufbau und alle notwendigen Programmbibliotheken sind auf dem offiziellen Wiki (bisher nur in englischer Sprache) von DFRobot zusammengefasst. Die genaue Bezeichnung des integrierten Sensors, die bei der Suche von Beschreibungen und Anleitungen wichtig sein kann, lautet DFR0534.
 
 <!-- infolist -->
-
-<!-- infolists -->
 ## Wichtige Links für die ersten Schritte:
 
 - [## DFRobot Wiki](https://wiki.dfrobot.com/Voice_Module_SKU__DFR0534#target_0)
