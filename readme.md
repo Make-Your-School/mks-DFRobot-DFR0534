@@ -16,6 +16,9 @@ repo_part: "DFR0534"
 product_url: "https://wiki.dfrobot.com/Voice_Module_SKU__DFR0534#target_0"
 clone_url: "https://github.com/Make-Your-School/mks-DFRobot-DFR0534.git"
 embedded_example_file: "examples/DFR0534_minimal/DFR0534_minimal.ino"
+title: 'MP3-Modul'
+status: 'active'
+difficulty: 'advanced'
 ---
 
 
