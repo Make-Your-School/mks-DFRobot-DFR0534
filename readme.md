@@ -110,6 +110,10 @@ Das Modul wird über eine Micro-USB Kabel mit dem Laptop verbunden.
 Dann erscheint es als _Massenspeicher_ (_USB-Stick_) im Datei-Explorer.
 Über diesen können dann die Sounds im MP3 oder WAV Format auf das Modul kopiert werden.
 
+> [!wichtig]
+> Es muss ein USB-Daten-Kabel verwendet werden.
+> Insbesondere Powerbanks liegen oft reine USB-Stromkabel bei, die zur Verbindung des Moduls mit dem PC nicht ausreichen.
+
 Bei den Datei-Bezeichnungen bitte darauf achten, dass diese:
 
 - maximal 8 Zeichen haben.
